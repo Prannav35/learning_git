@@ -1,2 +1,2 @@
 # learning_git
-This is the repository that I'll use to learn git. Come and check what I've done with it
+This is the repository that I'll use to learn git. Feel free to check what I've done with it
